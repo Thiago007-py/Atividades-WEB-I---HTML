@@ -2,7 +2,7 @@
 Atividades da disciplinas de desenvolvimentos de web I (parte de HTML)
 
 ### Atividade:
-- Atividade 1: Atividades-WEB-I---HTML/blob/main/Atividades/Atividade1.html
+- Atividade 1: 
 - Atividade 2:
 - Atividade 3: 
 - Atividade 4: 
